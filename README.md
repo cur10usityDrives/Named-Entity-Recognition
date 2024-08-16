@@ -32,7 +32,7 @@ pre-trained spaCy model and additional custom rules.
 ## Usage
 
 1. **Installation**:
-   - Clone the repository: `git clone https://github.com/your-username/ner-project.git`
+   - Clone the repository: `git clone https://github.com/cur10usityDrives/Named-Entity-Recognition.git`
    - Install dependencies: `pip install -r requirements.txt`
 
 2. **Running the Code**:
